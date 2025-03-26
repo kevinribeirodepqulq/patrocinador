@@ -1,0 +1,2 @@
+# patrocinador
+codigo for
